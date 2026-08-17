@@ -13,11 +13,11 @@
 
 // export default App;
 
-import StudentList from "./components/StudentList";
-import UserForm from "./components/UserForm";
-import Onchange from "./components/Onchange";
-import OrderForm from "./components/OrderForm";
-import ColorPicker from "./components/ColorPicker";
+// import StudentList from "./components/StudentList";
+// import UserForm from "./components/UserForm";
+// import Onchange from "./components/Onchange";
+// import OrderForm from "./components/OrderForm";
+// import ColorPicker from "./components/ColorPicker";
 import TodoApp from "./components/TodoApp";
 
 
